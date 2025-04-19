@@ -1,0 +1,20 @@
+site_name: "micro: Teclas de atalho padrão"
+site_author: Jurandy Soares
+
+theme:
+  name: readthedocs
+  language: pt
+
+nav:
+  - usuario-avancado.md
+  - navegacao.md
+  - abas.md
+  - operacoes-de-busca.md
+  - operacoes-de-arquivo.md
+  - operacoes-de-texto.md
+  - macros.md
+  - multiplos-cursores.md
+  - outras.md
+  - acoes-ao-estilo-do-emacs.md
+  - teclas-de-funcao.md
+
